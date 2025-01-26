@@ -3,7 +3,7 @@ public class Main {
 
         //поиск минимального значения в массиве
 
-            int [] array = new int[] {100,22,34,5,26,45,90};
+            int [] array = new int[] {100,22,34,5,26,45,90,120};
 
             int minValue = array[0];
             int minIndex = 0;
